@@ -1,5 +1,5 @@
 # 时间管理大师
-MVI的架构，ComposeMaterial3搭建的Demo，使用Hilt和dataStore作为viewModel注入和轻量级持久层数据保存
+基于Kotlin-MVI的架构，ComposeMaterial3搭建的Demo，使用Hilt和dataStore作为viewModel注入和轻量级持久层数据保存
 # 截图效果
 1.startTime:![starttime.png](app%2Fsrc%2Fmain%2Fres%2Fdrawable%2Fstarttime.png)
 2. 模块一：主页
